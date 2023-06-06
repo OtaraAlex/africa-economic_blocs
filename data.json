@@ -1,0 +1,583 @@
+{
+    "data": {
+      "id": "African Union"
+    },
+    "children": [
+        {
+            "data": {
+                "id": "Arab Maghreb Union(AMU)"
+            },
+            "children": [
+                {
+                    "data": {
+                        "id": "Algeria"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Libya"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mauritania"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Morocco"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tunisia"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "The Community of Sahel-Saharan States(CEN-SAD)"
+            },
+            "children": [
+                {
+                    "data": {
+                        "id": "Benin"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Burkina Faso"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Central African Republic"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chad"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Comoros"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Côte d’Ivoire"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Djibouti"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Egypt"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Eritrea"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gambia"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ghana"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Guinea-Bissau"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Libya"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mali"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mauritania"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Morocco"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Niger"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Nigeria"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Senegal"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sierra Leone"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Somalia"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sudan"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Togo"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Tunisia"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "Common Market for Eastern and Southern Africa(COMESA)"
+            },
+            "children": [
+                {
+                    "data": {
+                        "id": "Burundi"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Comoros"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Democratic Republic of the Congo"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Djibouti"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Egypt"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Eritrea"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Ethiopia"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Kenya"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Libya"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Madagascar"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Malawi"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Mauritius"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rwanda"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Sudan"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Eswatini"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Seychelles"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Uganda"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zambia"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Zimbabwe"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "East African Community(EAC)"
+            },
+            "children": [
+                {
+                    "data": {
+                        "id": "Burundi"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Kenya"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rwanda"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "South Sudan"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Uganda"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "United Republic of Tanzania"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "Economic Community of Central African States(ECCAS)"
+            },
+            "children": [
+                {
+                    "data": {
+                        "id": "Angola"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Burundi"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Cameroon"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Central African Republic"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Chad"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Congo"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Democratic Republic of the Congo"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Equatorial Guinea"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Gabon"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "Rwanda"
+                    }
+                },
+                {
+                    "data": {
+                        "id": "São Tomé and Príncipe"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "Economic Community of West African States(ECOWAS)"
+            },
+            "children": [
+                {
+                    "data":{
+                        "id": "Benin"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Burkina Faso"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Cabo Verde"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Côte d’Ivoire"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Gambia"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Ghana"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Guinea"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Guinea-Bissau"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Liberia"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Mali"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Niger"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Nigeria"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Senegal"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Sierra Leone"
+                    }
+                },
+                {
+                    "data":{
+                        "id": "Togo"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "Intergovernmental Authority on Development(IGAD)"
+            },
+            "children": [
+                {
+                    "data":{ 
+                        "id": "Djibouti"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Ethiopia"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Eritrea"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Kenya"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Somalia"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Sudan"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "South Sudan"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Uganda"
+                    }
+                }
+            ]
+        },
+        {
+            "data": {
+                "id": "Southern African Development Community(SADC)"
+            },
+            "children": [
+                {
+                    "data":{ 
+                        "id": "Angola"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Botswana"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Democratic Republic of the Congo"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Lesotho"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Madagascar"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Malawi"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Mauritius"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Mozambique"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Namibia"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Seychelles"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "South Africa"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Eswatini"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "United Republic of Tanzania"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Zambia"
+                    }
+                },
+                {
+                    "data":{ 
+                        "id": "Zimbabwe"
+                    }
+                }
+            ]
+        }
+    ]
+}
+
+
+
+
+
